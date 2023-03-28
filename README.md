@@ -1,3 +1,3 @@
 # cashierandstock
 
-Dev by. @peatnwr
+#Dev by. @peatnwr
