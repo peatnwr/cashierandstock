@@ -1,0 +1,100 @@
+001,100,12,Toilet Tissue
+002,100,15,Water(m)
+003,100,10,Water(s)
+004,100,12,Milk
+005,100,20,Tea
+006,100,12,Curd
+007,100,5,Chewing gum
+008,100,5,Candy
+009,100,16,Glue
+010,100,25,Tape
+011,100,20,Rippon
+012,100,20,A4 Paper
+013,100,12,Stick note
+014,100,20,White Socks
+015,100,20,Color Socks
+016,100,7,Paper clip
+017,100,35,Stapler
+018,100,18,Scissors
+019,100,5,Pu Thai
+020,100,10,Shrimp rice cracker
+021,100,10,Instant Noodle
+022,100,10,Lay
+023,100,36,Nail Polish
+024,100,10,Paracetamol
+025,100,20,Yogurt
+026,100,12,Powder
+027,100,15,Rubbing alcohol
+028,100,129,First aid kit
+029,100,10,Bread
+030,100,15,Toothbrush
+031,100,15,Toothpaste
+032,100,20,handkerchief
+033,100,7,Cotton
+034,100,45,Condom
+035,100,40,Sanitary
+036,100,20,Shower cap
+037,100,10,Washing Powder
+038,100,14,Soap
+039,100,12,Dish washing soap
+040,100,25,Band-Aid
+041,100,39,Cheese tart
+042,100,39,Cleansing foam
+043,100,15,Pen
+044,100,10,Dish washing sponge
+045,100,15,Soymilk
+046,100,15,Comp
+047,100,10,Newspaper
+048,100,20,Tweezers
+049,100,10,Febric freshener
+050,100,45,Grain Dog food
+051,100,25,Jelly dog food
+052,100,20,Nail polish remover
+053,100,199,Shaving cream
+054,100,29,Colonge
+055,100,20,Green tea
+056,100,20,Mineral water
+057,100,15,Cough syrup
+058,100,10,Pencil 
+059,100,5,Eraser
+060,100,40,Eggs
+061,100,29,Shampoo
+062,100,49,Hair conditioner
+063,100,20,Mango
+064,100,5,Hair rubber band
+065,100,20,Pumpkin
+066,100,20,Jackfruit
+067,100,25,Melon
+068,100,20,Apple
+069,100,25,Nail clippers
+070,100,99,hair remover 
+071,100,129,Eyebrow pencil
+072,100,99,Lipstick
+073,100,20,Shaver
+074,100,20,Watermalon
+075,100,25,Ovantine
+076,100,25,Coffee
+077,100,39,Flashlight
+078,100,129,Eyeliner
+079,100,129,Hair dye
+080,100,99,Makeup remover 
+081,100,69,Pitroleum jelly
+082,100,20,Permanant pen
+083,100,15,Battery
+084,100,20,Protective mask
+085,100,19,Mosquito repellent 
+086,100,30,Raincoat
+087,100,26,Haiter
+088,100,49,Dental floss
+089,100,69,Lotion
+090,100,29,Mounthwash
+091,100,15,Razer
+092,100,129,Tempon
+093,100,8,Ice
+094,100,20,Glue stick
+095,100,10,Refreshing towel
+096,100,50,Color pencil
+097,100,15,Book
+098,100,49,Baby oil
+099,100,40,Cookie
+100,100,40,Cake
